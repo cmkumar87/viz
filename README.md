@@ -1,4 +1,5 @@
-# VIZ Project from Publication Data
+# Chair-VIZ
+This apps builds and renders visualisations for statistics drawn for academic conferences. These stats are on papers submitted to the conference, authors who submitted the paper and other similar metadata on submissions.
 
 > A Vue.js project
 
